@@ -1,4 +1,4 @@
-# Public WCAG4PDF repository
+# Public PDF4WCAG repository
 
 ## Overview
 
