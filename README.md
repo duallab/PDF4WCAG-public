@@ -1,4 +1,4 @@
-# Public WCAG4PDF repository with desktop installers and issue tracker 
+# Public WCAG4PDF repository
 
 ## Overview
 
