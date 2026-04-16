@@ -2,7 +2,11 @@
   "header": "Blog & News",
   "description": "Explore our Blog & News for expert articles, product updates, and the latest trends about accessibility and PDF technology.",
   "pages": [
-    {
+   {
+      "title": "New Release: PDF4WCAG 1.8 Accessibility Checker",
+      "href": "/blog-news/new-release-pdf4wcag-1-8-accessibility-checker",
+      "description": "Dual Lab team is ready to announce a new update 1.8 to PDF4WCAG, delivering further improvements in validation accuracy, user experience, and overall stability."
+    }, {
       "title": "Dual Lab launches quarterly reports on PDF Accessibility Trends based on Common Crawl data",
       "href": "/blog-news/dual-lab-launches-reports-on-pdf-accessibility-trends",
       "description": "Dual Lab announces the upcoming publication of a new analytical report on PDF Accessibility Trends from  the Common Crawl dataset.  Such deep analytical reports will be released quarterly and will provide data-driven insights into global PDF trends. The first report  analyzes 15 million PDF documents from the CC-MAIN-2026-04 Common Crawl archive."
