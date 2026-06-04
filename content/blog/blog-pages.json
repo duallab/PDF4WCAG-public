@@ -3,6 +3,11 @@
   "description": "Explore our Blog & News for expert articles, product updates, and the latest trends about accessibility and PDF technology.",
   "pages": [
     {
+      "title": "Dual Lab releases PDF4WCAG Accessibility Checker 1.10",
+      "href": "/blog-news/pdf4wcag-release-1-10",
+      "description": "Dual Lab announces the release of PDF4WCAG Accessibility Checker 1.10, introducing usability enhancements, expanded localization support, and new document inspection panels."
+    },
+    {
       "title": "What is an Artifact in PDF?",
       "href": "/blog-news/what-is-an-artifact-in-pdf",
       "description": "PDF artifacts are non-semantic visual elements introduced during document generation, rendering, scanning, or OCR processing. In AI pipelines, these artifacts reduce extraction quality and negatively impact downstream tasks such as embeddings, retrieval, and LLM reasoning."
