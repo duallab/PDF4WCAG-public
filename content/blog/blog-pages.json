@@ -3,6 +3,11 @@
   "description": "Explore our Blog & News for expert articles, product updates, and the latest trends about accessibility and PDF technology.",
   "pages": [
     {
+      "title": "Metadata and PDF accessibility",
+      "href": "/blog-news/metadata-and-pdf-accessibility",
+      "description": "Metadata provides assistive technologies with an initial description of the document before content navigation begins. Without proper metadata, accessible PDFs lose important semantic and usability information."
+    },
+    {
       "title": "Dual Lab releases PDF4WCAG Accessibility Checker 1.10",
       "href": "/blog-news/pdf4wcag-release-1-10",
       "description": "Dual Lab announces the release of PDF4WCAG Accessibility Checker 1.10, introducing usability enhancements, expanded localization support, and new document inspection panels."
