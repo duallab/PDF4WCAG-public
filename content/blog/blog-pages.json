@@ -3,6 +3,11 @@
   "description": "Explore our Blog & News for expert articles, product updates, and the latest trends about accessibility and PDF technology.",
   "pages": [
     {
+      "title": "Privacy Policy differences between the Web and Desktop versions of PDF4WCAG",
+      "href": "/blog-news/privacy-policy",
+      "description": "This article explains the Privacy Policy of PDF4WCAG. How PDF4WCAG collects, uses, and protects information when a user performs the validation on the website or works with the Desktop version."
+    },
+    {
       "title": "Metadata and PDF accessibility",
       "href": "/blog-news/metadata-and-pdf-accessibility",
       "description": "Metadata provides assistive technologies with an initial description of the document before content navigation begins. Without proper metadata, accessible PDFs lose important semantic and usability information."
