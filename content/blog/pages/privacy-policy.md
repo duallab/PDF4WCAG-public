@@ -14,13 +14,13 @@ PDF accessibility validation  involves sensitive content, including corporate re
 
 The Web version of **PDF4WCAG** is designed for convenience and accessibility. Users can access the service through a [web browser](https://pdf4wcag.com/validate/new-job/settings) without installing any software. Users access Web versions instantly, regardless of their operating system, making onboarding fast and effortless. Automatic updates mean there is no need to manage versions or worry about outdated functionality.
 
-### Document processing in the Web version
+<h3 style="text-align: left">Document processing in the Web version</h3>
 
 Files are saved in the browser and then sent to the **PDF4WCAG server, where they are deleted immediately after the end of the session. PDF4WCAG doesn’t send files anywhere else.** PDF4WCAG uses files just for analysis in case of problems when a user requests. 
 
 Web version integrates with **veraPDF** validation engine. **PDF4WCAG** doesn’t store its own cookies in the browser. However, it does utilize Google Analytics and collects cookies required by the Google Agent itself. **PDF4WCAG** also stores basic application settings in the browser (language, selected profile, document zoom, and whether to open the right-hand panel by default).
 
-### Use cases of web version
+<h3 style="text-align: left">Use cases of web version</h3>
 
 * Individual accessibility specialists.  
 * Small and medium-sized organizations.  
@@ -31,13 +31,13 @@ Web version integrates with **veraPDF** validation engine. **PDF4WCAG** doesn�
 
 **PDF4WCAG** provides **Desktop version** for all major platforms, offering an identical user experience across operating systems (Windows, Linux, macOS). PDF4WCAG Desktop transfers the functionality of the web-based **PDF4WCAG Accessibility Checker** into a local environment keeping the same visual experience. It represents a desktop wrapper for the web application, enabling users to perform PDF accessibility validation directly on their computers without relying on an internet connection. 
 
-### Document processing in Desktop version 
+<h3 style="text-align: left">Document processing in Desktop version</h3>
 
 **Desktop version of PDF4WCAG operates offline.** **It does not send or collect any data to the Internet or outside.** As Web version, the desktop version also integrates with veraPDF validation engine, providing the same error previews, compliance reports, and interactive issue visualization as the online tool. 
 
 This approach reduces exposure to third-party infrastructure and supports environments with strict confidentiality requirements.
 
-### Use cases of Desktop version
+<h3 style="text-align: left">Use cases of Desktop version</h3>
 
 * Government agencies.  
 * Financial institutions.  
@@ -47,7 +47,8 @@ This approach reduces exposure to third-party infrastructure and supports enviro
 
 ## Comparing the two versions
 
-### 🌐 Web Version
+<h3 style="text-align: left">🌐 Web Version</h3>
+
   * **Installation required**: No  
   * **Browser access**: Yes  
   * **Document storage location**: PDF4WCAG server  
@@ -55,7 +56,8 @@ This approach reduces exposure to third-party infrastructure and supports enviro
   * **Sensitive docs**: Depends on policies  
   * **Files auto-delete after session**: Yes  
 
-### 💻 Desktop Version
+<h3 style="text-align: left">💻 Desktop Version</h3>
+
   * **Installation required**: Yes  
   * **Browser access**: No  
   * **Document storage location**: Local directory  
