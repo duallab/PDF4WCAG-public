@@ -3,6 +3,11 @@
   "description": "Explore our Blog & News for expert articles, product updates, and the latest trends about accessibility and PDF technology.",
   "pages": [
     {
+      "title": "New Annotations Panel in PDF4WCAG",
+      "href": "/blog-news/annotation-panel",
+      "description": "Annotations are a general mechanism for adding an interactive layer to PDF documents.They include elements such as links, comments, interactive form fields, multimedia."
+    },
+    {
       "title": "Privacy Policy differences between the Web and Desktop versions of PDF4WCAG",
       "href": "/blog-news/privacy-policy",
       "description": "This article explains the Privacy Policy of PDF4WCAG. How PDF4WCAG collects, uses, and protects information when a user performs the validation on the website or works with the Desktop version."
