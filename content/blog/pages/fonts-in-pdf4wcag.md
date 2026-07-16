@@ -2,7 +2,7 @@
 
 When it comes to PDF accessibility, fonts are far more than a design choice. They are an important technical component that affects how text is represented and interpreted by assistive technologies. One of the key additions in **PDF4WCAG Accessibility Checker 1.10** is the new Fonts inspection panel, which provides a detailed analysis of embedded fonts, font types and subsets, and encoding information. 
 
-![Fonts panel details](../../../assets/img/fonts-in-pdf4wcag/font.png)
+![](../../../assets/img/fonts-in-pdf4wcag/font.png)
 
 ## Why fonts matter for accessible PDFs
 
@@ -25,15 +25,15 @@ The new **Fonts** panel in **PDF4WCAG 1.10** provides detailed technical informa
 * **Font type and subset information** – displays the font type and whether a font is embedded as a subset or in full  
 * **Encoding information** – provides information about font encoding to assist in diagnosing Unicode mapping issues
 
-![Validation result](../../../assets/img/fonts-in-pdf4wcag/error_check_2.png)
+![](../../../assets/img/fonts-in-pdf4wcag/error_check_2.png)
 
-![Fonts related error](../../../assets/img/fonts-in-pdf4wcag/fonts.png)
+![](../../../assets/img/fonts-in-pdf4wcag/fonts.png)
 
 Users can immediately inspect all font resources from a single location. This makes troubleshooting much faster, especially in complex documents containing multiple embedded fonts. 
 
-![Validation result](../../../assets/img/fonts-in-pdf4wcag/error_check_1.png)
+![](../../../assets/img/fonts-in-pdf4wcag/error_check_1.png)
 
-![Fonts related error](../../../assets/img/fonts-in-pdf4wcag/font_error.png)
+![](../../../assets/img/fonts-in-pdf4wcag/font_error.png)
 
 ## How font information supports accessibility
 
