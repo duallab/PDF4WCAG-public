@@ -3,6 +3,16 @@
   "description": "Explore our Blog & News for expert articles, product updates, and the latest trends about accessibility and PDF technology.",
   "pages": [
     {
+      "title": "Structure Tree in PDF4WCAG",
+      "href": "/blog-news/structure-tree-in-pdf4wcag",
+      "description": "The Structure Tree represents the logical structure of a tagged PDF document. It consists of structure elements such as headings, paragraphs, lists, tables, and figures, organized in a hierarchical tree that is interpreted by assistive technologies."
+    },
+    {
+      "title": "Structure Tree in PDF4WCAG",
+      "href": "/blog-news/structure-tree-in-pdf4wcag",
+      "description": "The Structure Tree represents the logical structure of a tagged PDF document. It consists of structure elements such as headings, paragraphs, lists, tables, and figures, organized in a hierarchical tree that is interpreted by assistive technologies."
+    },
+    {
       "title": "The Fonts Panel in PDF4WCAG: supporting PDF accessibility and compliance",
       "href": "/blog-news/fonts-in-pdf4wcag",
       "description": "Fonts are far more than a design choice. They are an important technical component that affects how text is represented and interpreted by assistive technologies."
