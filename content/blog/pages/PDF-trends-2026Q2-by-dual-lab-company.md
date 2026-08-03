@@ -1,8 +1,8 @@
 # PDF trends 2026Q2 by Dual Lab company 
 
-## Analysis of 20.6 Million PDF Documents from the June 2026 Common Crawl Dataset
+<h2 style="margin-top: 36px; margin-bottom: 18px; font-size: 36px;">Analysis of 20.6 Million PDF Documents from the June 2026 Common Crawl Dataset</h2>
 
-## Executive Summary
+<h2 style="margin-top: 36px; margin-bottom: 18px; font-size: 36px;">Executive Summary</h2>
 
 PDF remains one of the most widely used formats for publishing digital information, yet accessibility continues to be a major challenge. To better understand the current state of PDF accessibility, [Dual Lab](https://duallab.com/) analyzed the complete June 2026 Common Crawl dataset (CC-MAIN-2026-25), containing **20,578,394 PDF documents**.
 
@@ -10,7 +10,7 @@ This report extends [our previous study](https://pdf4wcag.com/blog-news/dual-lab
 
 The analysis provides a large-scale view of how PDF technology is used across the public web and establishes a foundation for future reports on PDF in general with focus on Tagged PDF, PDF/UA adoption, and accessibility trends.
 
-## Research Scope and Methodology 
+<h2 style="margin-top: 36px; margin-bottom: 18px; font-size: 36px;">Research Scope and Methodology</h2>
 
 The study analyzed every PDF referenced in the [**June 2026 Common Crawl**](https://commoncrawl.org/blog/june-2026-crawl-archive-now-available) **(CC-MAIN-2026-25)** dataset.
 
@@ -45,7 +45,7 @@ Because Common Crawl stores only the first **1 MB** of each PDF, documents excee
 * **419,069** PDFs (2.04%) with **digital signatures**  
 * **888,237** PDFs (4.32%) with **optional content (layers)**
 
-<h3 style="text-align: left">Distribution of PDF documents by date</h3>
+<h3 style="text-align: left; margin-top: 32px; margin-bottom: 16px; font-size: 30px;">Distribution of PDF documents by date</h3>
 
 To understand the distribution of documents by timeline we analyzed document dates using **ModDate** when available; otherwise, **CreationDate** was used.
 
@@ -59,7 +59,7 @@ Because PDF metadata is not always reliable, the analysis was limited to documen
 
 Most publicly available PDFs from June 2026 Common Crawl dataset were created or modified within the last several years.
 
-<h3 style="text-align: left">Distribution of page counts in PDF Files</h3>
+<h3 style="text-align: left; margin-top: 32px; margin-bottom: 16px; font-size: 30px;">Distribution of page counts in PDF Files</h3>
 
 ![](../../../assets/img/PDF-trends-2026Q2-by-dual-lab-company/image6.png)
 
@@ -77,7 +77,7 @@ Document frequency decreases steadily as page count increases.
 
 **Methodological note.** Around 8000 PDFs had malformed page trees resulting in missing page information. They were excluded from the page-count analysis. 
 
-<h3 style="text-align: left">Distribution of PDF Files by PDF Version</h3>
+<h3 style="text-align: left; margin-top: 32px; margin-bottom: 16px; font-size: 30px;">Distribution of PDF Files by PDF Version</h3>
 
 The reported PDF version was determined using both the document header and the optional **/Version** entry in the Catalog, as defined in PDF 2.0 ( ISO 32000-2).
 
@@ -91,7 +91,7 @@ PDF 1.7 remains the dominant version with more than **6 million documents**, fol
   Figure 3. PDF files by by header+catalog version (1.0-2.0)
 </p>
 
-<h3 style="text-align: left">Total Number of Annotations by Type</h3>
+<h3 style="text-align: left; margin-top: 32px; margin-bottom: 16px; font-size: 30px;">Total Number of Annotations by Type</h3>
 
 Annotations are one of the most widely used interactive features of the PDF format. Across the **20.6 million PDF documents** analyzed, we identified hundreds of millions of annotations of different types. 
 
@@ -127,7 +127,7 @@ Besides the annotation types defined by the PDF specification (such as Link, Tex
   Figure 6.  Full list of annotation types by document count
 </p>
 
-<h3 style="text-align: left">PDF Encryption and Permission Flags</h3>
+<h3 style="text-align: left; margin-top: 32px; margin-bottom: 16px; font-size: 30px;">PDF Encryption and Permission Flags</h3>
 
 ![](../../../assets/img/PDF-trends-2026Q2-by-dual-lab-company/image7.png)
 
@@ -149,7 +149,7 @@ However, approximately **16%** of encrypted PDFs, or **0.4%** of the total analy
 
 Overall, encrypted PDFs on the public web are primarily configured to prevent document modification rather than document access.
 
-## Implications of analysis
+<h2 style="margin-top: 36px; margin-bottom: 18px; font-size: 36px;">Implications of analysis</h2>
 
 This first part of the June 2026 Common Crawl PDFs analysis reveals several long-term characteristics of PDF usage on the public web:
 
@@ -160,7 +160,7 @@ This first part of the June 2026 Common Crawl PDFs analysis reveals several long
 * Proprietary extensions remain common, particularly in annotation workflows.
 * Link annotations dominate all other annotation types combined.
 
-## Conclusion
+<h2 style="margin-top: 36px; margin-bottom: 18px; font-size: 36px;">Conclusion</h2>
 
 This first part of the  report provides an initial statistical overview of more than **20.5 million** PDF documents collected from the June 2026 Common Crawl dataset.
 
