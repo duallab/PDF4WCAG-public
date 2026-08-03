@@ -3,6 +3,11 @@
   "description": "Explore our Blog & News for expert articles, product updates, and the latest trends about accessibility and PDF technology.",
   "pages": [
     {
+      "title": "PDF trends 2026Q2 by Dual Lab company",
+      "href": "/blog-news/PDF-trends-2026Q2-by-dual-lab-company",
+      "description": "Dual Lab analyzed the complete June 2026 Common Crawl dataset (CC-MAIN-2026-25), containing 20,578,394 PDF documents."
+    },
+    {
       "title": "Structure Tree in PDF4WCAG",
       "href": "/blog-news/structure-tree-in-pdf4wcag",
       "description": "The Structure Tree represents the logical structure of a tagged PDF document. It consists of structure elements such as headings, paragraphs, lists, tables, and figures, organized in a hierarchical tree that is interpreted by assistive technologies."
