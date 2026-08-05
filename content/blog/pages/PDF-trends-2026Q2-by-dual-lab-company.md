@@ -14,7 +14,7 @@ The analysis provides a large-scale view of how PDF technology is used across th
 
 The study analyzed every PDF referenced in the [**June 2026 Common Crawl**](https://commoncrawl.org/blog/june-2026-crawl-archive-now-available) **(CC-MAIN-2026-25)** dataset.
 
-Because Common Crawl stores only the first **1 MB** of each PDF, documents exceeding this size were downloaded directly from their original URLs to enable complete analysis.
+Because Common Crawl stores only the first **5 MB** of each PDF, documents exceeding this size were downloaded directly from their original URLs to enable complete analysis.
 
 **The final dataset contains:**
 
