@@ -1,4 +1,4 @@
-# New Annotations Panel in PDF4WCAG 
+# How does the annotations panel improve PDF Accessibility validation 
 
 Annotations are a general mechanism for adding an interactive layer to PDF documents. They include elements such as links, comments, interactive form fields, multimedia, and more. Like all other content, annotations may or may not be accessible. PDF4WCAG checks also cover a number of PDF/UA and WCAG requirements on annotations.
 
