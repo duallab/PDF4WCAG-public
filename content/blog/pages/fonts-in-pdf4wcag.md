@@ -1,4 +1,4 @@
-# The Fonts Panel in PDF4WCAG: supporting PDF accessibility and compliance
+# The Fonts Panel in PDF4WCAG: how does the Fonts Panel support PDF accessibility and compliance
 
 When it comes to PDF accessibility, fonts are far more than a design choice. They are an important technical component that affects how text is represented and interpreted by assistive technologies. One of the key additions in **PDF4WCAG Accessibility Checker 1.10** is the new Fonts inspection panel, which provides a detailed analysis of embedded fonts, font types and subsets, and encoding information. 
 

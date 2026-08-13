@@ -18,9 +18,9 @@
       "description": "Fonts are far more than a design choice. They are an important technical component that affects how text is represented and interpreted by assistive technologies."
     },
     {
-      "title": "New Annotations Panel in PDF4WCAG",
+      "title": "How does the annotations panel improve PDF Accessibility validation",
       "href": "/blog-news/annotation-panel",
-      "description": "Annotations are a general mechanism for adding an interactive layer to PDF documents.They include elements such as links, comments, interactive form fields, multimedia."
+      "description": "PDF4WCAG Accessibility Checker 1.10 introduces a dedicated Annotations panel that gives users deeper insight into interactive elements critical for accessibility compliance."
     },
     {
       "title": "Privacy Policy differences between the Web and Desktop versions of PDF4WCAG",

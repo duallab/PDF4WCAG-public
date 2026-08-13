@@ -1,4 +1,4 @@
-﻿# Contrast checks for PDF
+﻿# How to check color contrast in PDF documents
 
 Digital content, like PDF files, has to follow certain color contrast ratios so that people who have trouble seeing or understanding colors can still read it. WCAG includes specific requirements to ensure sufficient color contrast for text.
 

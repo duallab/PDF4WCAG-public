@@ -1,4 +1,4 @@
-# Structure Tree in PDF4WCAG 
+# Structure Tree in PDF4WCAG. Why is the Structure Tree essential for PDF accessibility
 
 ## What is a Structure Tree?
 

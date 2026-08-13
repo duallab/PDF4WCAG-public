@@ -1,4 +1,4 @@
-# Desktop vs Web Applications for PDF Accessibility Validation
+# What's the difference between the Desktop and Web versions of PDF4WCAG
 
 ![](../../../assets/img/desktop-vs-web-applications-for-pdf-accessibility-validation/pdf-dual.png)
 

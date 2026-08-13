@@ -1,4 +1,4 @@
-# Metadata and PDF accessibility 
+# Metadata and PDF accessibility. Why is PDF Metadata important for accessibility 
 
 PDF accessibility is always associated with tags, headings and alternative text. But there's another critical component: **metadata**.
 

@@ -1,4 +1,4 @@
-# Privacy Policy differences between the Web and Desktop versions of PDF4WCAG
+# What's the difference between the web and desktop versions of PDF4WCAG Privacy Policy
 
 ![](../../../assets/img/privacy-policy/privacy_policy.png)
 
