@@ -3,6 +3,11 @@
   "description": "Explore our Blog & News for expert articles, product updates, and the latest trends about accessibility and PDF technology.",
   "pages": [
     {
+      "title": "Analysis of PDF file size for 2006-2025 by Dual Lab ",
+      "href": "/blog-news/analysis-pdf-file-size",
+      "description": "In the second part of the analysis Dual Lab analyzes the evolution of the median PDF file size over the past 20 years."
+    },
+    {
       "title": "PDF trends 2026Q2 by Dual Lab company",
       "href": "/blog-news/PDF-trends-2026Q2-by-dual-lab-company",
       "description": "Dual Lab analyzed the complete June 2026 Common Crawl dataset (CC-MAIN-2026-25), containing 20,578,394 PDF documents."
