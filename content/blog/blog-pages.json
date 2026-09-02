@@ -3,6 +3,11 @@
   "description": "Explore our Blog & News for expert articles, product updates, and the latest trends about accessibility and PDF technology.",
   "pages": [
     {
+      "title": "Dual Lab releases PDF4WCAG Accessibility Checker 1.12",
+      "href": "/blog-news/pdf4wcag-release-1.12",
+      "description": "The release introduces improvements to accessibility and keyboard navigation, error visualization, validation accuracy, localization to Korean language and application stability."
+    },
+    {
       "title": "Analysis of PDF file size for 2006-2025 by Dual Lab ",
       "href": "/blog-news/analysis-pdf-file-size",
       "description": "In the second part of the analysis Dual Lab analyzes the evolution of the median PDF file size over the past 20 years."
