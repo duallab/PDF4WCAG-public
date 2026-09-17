@@ -3,6 +3,11 @@
   "description": "Explore our Blog & News for expert articles, product updates, and the latest trends about accessibility and PDF technology.",
   "pages": [
     {
+      "title": "How can AI help PDF",
+      "href": "/blog-news/how-can-ai-help-pdf",
+      "description": "PDF is not inherently a problem for AI. The structure of a PDF needs to correspond to the content and organization presented to the user."
+    },
+    {
       "title": "Is PDF a problem for AI? ",
       "href": "/blog-news/is-pdf-a-problem-for-ai",
       "description": "PDF is not the enemy of AI. PDF should not be automatically OCR-processed or converted into a simpler format just because image recognition is available or Markdown and plain text are easier to process. Such conversion can discard semantics, structure, and context."
