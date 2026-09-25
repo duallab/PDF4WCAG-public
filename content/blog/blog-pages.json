@@ -3,6 +3,11 @@
   "description": "Explore our Blog & News for expert articles, product updates, and the latest trends about accessibility and PDF technology.",
   "pages": [
     {
+      "title": "PDF4WCAG Human Checks: what is covered?",
+      "href": "/blog-news/pdf4wcag-human-checks-what-is-covered",
+      "description": "The PDF4WCAG WCAG 2.2 Human profile currently covers several areas where the relationship between visual presentation and semantic structure is important."
+    },
+    {
       "title": "How can AI help PDF",
       "href": "/blog-news/how-can-ai-help-pdf",
       "description": "PDF is not inherently a problem for AI. The structure of a PDF needs to correspond to the content and organization presented to the user."
