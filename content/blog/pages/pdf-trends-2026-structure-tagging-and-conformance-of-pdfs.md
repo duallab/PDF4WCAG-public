@@ -104,7 +104,7 @@ Approximately 99.3% of the identified PDF/UA files are PDF/UA-1, while approxima
 
 The figure shows a strong dominance of PDF/UA-1 and very limited adoption of PDF/UA-2 in the analyzed dataset.
 
-## PDF/A conformance flavours
+### PDF/A conformance flavours
 
 ![](../../../assets/img/pdf-trends-2026-structure-tagging-and-conformance-of-pdfs/figure_7.svg)
 
