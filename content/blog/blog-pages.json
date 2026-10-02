@@ -3,6 +3,11 @@
   "description": "Explore our Blog & News for expert articles, product updates, and the latest trends about accessibility and PDF technology.",
   "pages": [
     {
+      "title": "PDF Trends 2026: Structure, Tagging, and Conformance of PDFs",
+      "href": "/blog-news/pdf-trends-2026-structure-tagging-and-conformance-of-pdfs",
+      "description": "In this third part, Dual Lab has examined the semantic structure of Tagged PDF documents."
+    },
+    {
       "title": "PDF4WCAG Human Checks: what is covered?",
       "href": "/blog-news/pdf4wcag-human-checks-what-is-covered",
       "description": "The PDF4WCAG WCAG 2.2 Human profile currently covers several areas where the relationship between visual presentation and semantic structure is important."
