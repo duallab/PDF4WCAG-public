@@ -3,6 +3,11 @@
   "description": "Explore our Blog & News for expert articles, product updates, and the latest trends about accessibility and PDF technology.",
   "pages": [
     {
+      "title": "PDF4WCAG for STEM publications",
+      "href": "/blog-news/pdf4wcag-for-stem-publications",
+      "description": "This article shows how LaTeX, PDF4WCAG machine validation, AI-assisted human checks can work together to improve the accessibility of scientific publications."
+    },
+    {
       "title": "PDF Trends 2026: Structure, Tagging, and Conformance of PDFs",
       "href": "/blog-news/pdf-trends-2026-structure-tagging-and-conformance-of-pdfs",
       "description": "In this third part, Dual Lab has examined the semantic structure of Tagged PDF documents."
