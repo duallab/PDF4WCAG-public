@@ -3,6 +3,11 @@
   "description": "Explore our Blog & News for expert articles, product updates, and the latest trends about accessibility and PDF technology.",
   "pages": [
     {
+      "title": "PDF Trends 2026: what 20 Million documents reveal about PDF production, structure, and accessibility",
+      "href": "/blog-news/pdf-trends-2026",
+      "description": "Dual Lab analyzed the June 2026 Common Crawl dataset (CC-MAIN-2026-25), containing 20,578,394 PDF documents and approximately 38 TB of data."
+    },
+    {
       "title": "Dual Lab releases PDF4WCAG Accessibility Checker 1.14",
       "href": "/blog-news/pdf4wcag-release-1.14",
       "description": "This update improves validation accuracy, refines several WCAG-related checks, addresses an issue with Structure Tree processing, and updates the PDF.js library to version 6 to address known third-party security vulnerabilities."
