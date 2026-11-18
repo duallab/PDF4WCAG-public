@@ -3,6 +3,11 @@
   "description": "Explore our Blog & News for expert articles, product updates, and the latest trends about accessibility and PDF technology.",
   "pages": [
     {
+      "title": "Dual Lab releases PDF4WCAG Accessibility Checker 1.14",
+      "href": "/blog-news/pdf4wcag-release-1.14",
+      "description": "This update improves validation accuracy, refines several WCAG-related checks, addresses an issue with Structure Tree processing, and updates the PDF.js library to version 6 to address known third-party security vulnerabilities."
+    },
+    {
       "title": "PDF Trends 2026: Producer and Creator Metadata",
       "href": "/blog-news/pdf-trends-2026-producer-and-creator-metadata",
       "description": "PDF files contain Producer and Creator metadata that can help identify the software or device involved in their creation."
