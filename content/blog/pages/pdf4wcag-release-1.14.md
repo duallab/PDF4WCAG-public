@@ -2,7 +2,7 @@
 
 ![](../../../assets/img/pdf4wcag-release-1-14/image_1.png)
 
-**Dual Lab** announces the release of **PDF4WCAG Accessibility Checker 1.14**. 
+**Dual Lab** announces the release of **PDF4WCAG Accessibility Checker 1.14**. [Download here.](https://pdf4wcag.com/desktop-app/)
 
 >This update improves validation accuracy, refines several WCAG-related checks, addresses an issue with Structure Tree processing, and updates the PDF.js library to version 6 to address known third-party security vulnerabilities. 
 
